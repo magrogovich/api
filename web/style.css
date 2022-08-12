@@ -1,0 +1,9 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+#loc{
+    position: absolute;
+    width: 10px;
+}
