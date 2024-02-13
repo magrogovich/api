@@ -1,0 +1,23 @@
+[{
+  "_id": {
+    "$oid": "65cbe28f82e6fc6121cc746b"
+  },
+  "user": "google-oauth2|105919245830348363535",
+  "client": {
+    "$oid": "65cbe28382e6fc6121cc7457"
+  },
+  "boutique": {
+    "$oid": "65cbe19782e6fc6121cc741e"
+  },
+  "form": {
+    "$oid": "65cbe22282e6fc6121cc7430"
+  },
+  "status": "In Progress",
+  "createdAt": {
+    "$date": "2024-02-13T21:43:43.740Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-13T21:43:43.740Z"
+  },
+  "__v": 0
+}]

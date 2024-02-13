@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "65cbe28382e6fc6121cc7457"
+  },
+  "user": "google-oauth2|105919245830348363535",
+  "name": "jony",
+  "cin": "00112233",
+  "phone": "12345678",
+  "email": "xyz@gmail.com",
+  "birthday": {
+    "$date": "2024-02-15T00:00:00.000Z"
+  },
+  "sex": "male",
+  "joinDate": {
+    "$date": "2024-02-04T00:00:00.000Z"
+  },
+  "password": "0000",
+  "createdAt": {
+    "$date": "2024-02-13T21:43:31.223Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-13T21:43:31.223Z"
+  },
+  "__v": 0
+}]

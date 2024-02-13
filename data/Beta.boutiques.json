@@ -1,0 +1,16 @@
+[{
+  "_id": {
+    "$oid": "65cbe19782e6fc6121cc741e"
+  },
+  "user": "google-oauth2|105919245830348363535",
+  "title": "Boutique 1",
+  "address": "azur city",
+  "members": "ahmed, salah, mounir",
+  "createdAt": {
+    "$date": "2024-02-13T21:39:35.332Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-13T21:39:35.332Z"
+  },
+  "__v": 0
+}]
